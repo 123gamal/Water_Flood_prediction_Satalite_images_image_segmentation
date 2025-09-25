@@ -1,0 +1,23 @@
+# Flood Prediction using Satellite Image Segmentation 🌊🛰️
+
+This project focuses on **predicting water floods from satellite imagery** using **image segmentation techniques**.  
+By applying deep learning models, the system is able to identify and separate flooded regions from non-flooded areas in satellite images.
+
+## Goals
+- Detect flood-affected regions from satellite data.  
+- Apply image segmentation to generate masks highlighting water vs. land.  
+- Provide insights that can help in disaster management and planning.  
+
+## Methods
+- Preprocessing satellite images.  
+- Training and evaluating segmentation models (e.g., U-Net, CNN-based approaches).  
+- Visualizing predictions with overlayed masks.  
+
+## Future Work
+- Improve accuracy with larger datasets.  
+- Explore real-time flood prediction.  
+- Integrate with GIS platforms for decision support.  
+
+---
+
+🚀 This repository will be expanded as the project develops. Contributions and suggestions are welcome!
